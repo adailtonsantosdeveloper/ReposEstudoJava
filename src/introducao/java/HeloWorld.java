@@ -11,7 +11,7 @@ package introducao.java;
 public class HeloWorld {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!");
-        System.out.println("Java é uyma linguagem de programação multiplataforma.");
+        System.out.println("Java é uma linguagem de programação multiplataforma.");
         System.out.println("Ser multiplataforma significa que pode rodar em diferentes sistemas operacionais,"
         + " bastando apenas ter uma máquina virtual Java instalada previamente.");
         /*
