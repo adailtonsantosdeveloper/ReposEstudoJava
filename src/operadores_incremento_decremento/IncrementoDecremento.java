@@ -3,7 +3,7 @@ package operadores_incremento_decremento;
 public class IncrementoDecremento {
     public static void main(String[] args) {
         System.out.println("Uma forma de simplificar uma equação de atribuição de uma única unidade \n é utilizar operadores de incremento / decremento.");
-        System.out.println("Imagine a variávem A do tipo inteiro cujo valor inicial seja 10.\n Para adicionar mais 1 ou subtrair 1 pode ser feito de três maneiras: ");
+        System.out.println("Imagine a variável A do tipo inteiro cujo valor inicial seja 10.\n Para adicionar mais 1 ou subtrair 1 pode ser feito de três maneiras: ");
         int A = 10;
         System.out.println("A = A + 1;");
         System.out.println("A += 1;");
