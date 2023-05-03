@@ -12,6 +12,12 @@ public class OperadoresAtribuicao {
         System.out.println("Foi declarada uma varíável do tipo int com nome de nInteiro e receberá o valor 10");
 
         int nInteiro = 10;
+        System.out.println("Há também os operadores de atribuição compostos: [+=], [-=], [*=], [/=].");
+        System.out.printf("%d += 1 =>[%d] %n", nInteiro, nInteiro += 1);
+        System.out.printf("%d -= 2 => [%d] %n", nInteiro, nInteiro -= 2);
+        System.out.printf("%d *=2 => [%2.2f] %n", nInteiro, (double)(nInteiro *= 2));
+        System.out.printf("%d /= 4 => [%2.2f] %n", nInteiro, (double)(nInteiro /= 4));
+
     }
     
 }
