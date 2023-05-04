@@ -8,12 +8,14 @@ public class IncrementoDecremento {
         System.out.println("A = A + 1;");
         System.out.println("A += 1;");
         System.out.println("A++;");
+        System.out.println(A++);
         System.out.println("Este [++] é justamente o operador de incremento");
         System.out.println("Imagine a Bariável B do tipo inteiro iniciando com valor 20. \n E seja necessário subtrair uma unidade. \n Também pode ser feita de três formas: ");
         int B = 20;
         System.out.println("B = B - 1;");
         System.out.println("B -= 1;");
         System.out.println("B--;");
+        System.out.println(B--);
         System.out.println("Este [--] é justamente o operador de decremento.");
         System.out.println("Os operadores de INCREMENTO e DECREMENTO podem ser pre-fixados ou pós-fixados.\n Os exemplos dados acima são de incremento e decremento pós-fixados");
         System.out.println("ou seja, os operadores ficam após os operandos.");
