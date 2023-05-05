@@ -3,8 +3,7 @@ package tipos_primitivos;
 public class TiposPrimitivos {
     public static void main(String[] args) {
         System.out.println("Na linguagem Java há 8 tipos de variável: ");
-        System.out.println("Tipo boolean [tamanho: 1 bit] => recebe apenas valores lógicos (binários) true/false\n" +
-        " equivalente a 1/0 em algumas outras linguagens.");
+        System.out.println("Tipo boolean [tamanho: 1 bit] => recebe apenas valores lógicos (binários) true/false" +  " equivalente a 1/0 em algumas outras linguagens. ");
         System.out.println("Tipo char [tamanho: 16 bits] => aceita caractere alfanumérico, incluindo caracteres especiais." +
          " Cada variável só pode receber um único caractere.");
          System.out.println("Tipo byte [tamanho: 8 bits]=> Pode receber números inteiros desde -128 até 127");

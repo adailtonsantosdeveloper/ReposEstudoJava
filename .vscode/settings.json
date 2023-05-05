@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.base.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.controls.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.fxml.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.graphics.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.media.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.swing.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx.web.jar",
+        "g:\\Estudando Programação\\Java_FX\\openjfx-20.0.1_windows-x64_bin-sdk\\javafx-sdk-20.0.1\\lib\\javafx-swt.jar"
+    ]
+}
