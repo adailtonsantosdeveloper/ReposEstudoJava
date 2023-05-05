@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+G:\Estudando Programação\Linguagens de Programação\Java\ReposEstudoJava\src\java\eclipse\.metadata\.plugins\org.eclipse.jdt.core
