@@ -17,6 +17,10 @@ public class OperadoresAtribuicao {
         System.out.printf("%d -= 2 => [%d] %n", nInteiro, nInteiro -= 2);
         System.out.printf("%d *=2 => [%2.2f] %n", nInteiro, (double)(nInteiro *= 2));
         System.out.printf("%d /= 4 => [%2.2f] %n", nInteiro, (double)(nInteiro /= 4));
+      /*  int A = 0;
+        int B = 15;
+        System.out.printf("%d e %d = %b %n", A, B, A^B);
+        System.out.printf ("%d >> %d = %d %n",10, 2, 10 >> 2);  */
 
     }
     
